@@ -1,0 +1,11 @@
+
+{
+  "name": "binance-telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot that sends alerts for top gainers on Binance",
+  "main": "index.js",
+  "dependencies": {
+    "node-binance-api": "^1.8.8",
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
